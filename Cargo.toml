@@ -1,0 +1,10 @@
+[package]
+name = "reversi_AI"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = { version = "0.8.5", features = [] }
+serde_json = { version = "1.0.107", features = [] }
